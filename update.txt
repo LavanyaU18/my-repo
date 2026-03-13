@@ -1,1 +1,2 @@
 This is the first line in update.txt
+This is an additional line in update.txt
